@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "luis",
+      "last_name": "vasquez",
+      "email": "luivasquez95@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "first_name": "ana",
+      "last_name": "gonzales",
+      "email": "anag@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "first_name": "lucia",
+      "last_name": "Hernandez",
+      "email": "lucih@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 4,
+      "first_name": "juan",
+      "last_name": "perez",
+      "email": "juper@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 5,
+      "first_name": "andres",
+      "last_name": "garcia",
+      "email": "andresg@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
