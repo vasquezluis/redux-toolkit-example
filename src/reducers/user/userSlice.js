@@ -4,9 +4,9 @@ import { createSlice } from "@reduxjs/toolkit";
 // TODO: slice = reducers + actions
 
 const initialState = {
-  email: "",
-  fullName: "",
-  token: "",
+  email: "luivasquez95@gmail.com",
+  fullName: "Luis Vasquez",
+  token: "456132dafsdf",
 };
 
 export const userSlice = createSlice({
